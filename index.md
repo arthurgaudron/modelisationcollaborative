@@ -27,3 +27,6 @@ Un système comme un autre. En collaboration avec la Chaire Logistique Urbaine (
 
 Le choix appartient aux décideurs. La réponse offerte par le modèle n’est pas un choix. Le modèle n’est là que pour quantifier les potentiels impacts de différentes décisions. Supprimer XXX a des avantages et des inconvénients difficiles à comparer : promouvoir santé publique ou promouvoir l’activité économique et la vie quotidienne.
 
+# Intéressé pour participer ?
+Rejoignez un des ateliers en vous inscrivant.
+
