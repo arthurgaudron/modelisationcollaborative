@@ -2,22 +2,24 @@
 layout: default
 ---
 
+> “Models are opinions embedded in mathematics” – Cathy O’Neil
+
 Un modèle est une représentation de la réalité.
 Un modèle collaboratif est une représentation de la réalité co-construite par les différentes parties prenantes.
 
-> “Models are opinions embedded in mathematics” – Cathy O’Neil
-
-Le processus de représentation induit deux conséquences : simplification et biais.
-L’ouverture est proposée comme une stratégie pour limiter l’influence de ces propriétés inhérentes à l’exercice de modélisation.
+La collaboration lors de la modélisation est proposée comme une stratégie pour répondre aux trois exigences principales : simplification, le biais et endorsement
 
 # Simplification
+> Definition : 
 Discerner l’essentiel du superflu. Il faut comprendre l’ensemble pour pouvoir enlever le superflu.
 Si un problème complexe est le recoupement des différents champs d’expertise, par définition, l’expert omniscient n’existerait donc pas. Qui peut se targuer de comprendre tous les acteurs, leurs objectifs, leurs contraintes opérationnelles, et leurs relations avec les autres acteurs ?
 
 # Biais
+> Definition :
 Au-delà de cette légitime ignorance, est-ce que le(s) créateur(s) n’aurait pas une tendance (consciente ou inconsciente) à représenter la réalité à son avantage ?
 
-# Collaboration
+# Approbation
+> Definition :
 
 Un modèle ouvert est un modèle accessible pour le plus grand nombre. Si tout le monde comprend le modèle, que devient le risque d’oublier un élément dans le modèle ? Si tout le monde sait lire entre les lignes du modèle, qui pourrait prendre le risque d’être découvert à utiliser le modèle à son avant avantage du modèle le risque de tirer avantage du modèle au risque d’être découvert ?
 
