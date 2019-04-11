@@ -4,8 +4,6 @@ layout: default
 
 # Créer un langage commun
 
-> “Models are opinions embedded in mathematics” – Cathy O’Neil
-
 Un modèle est une représentation de la réalité.
 Un modèle collaboratif est une représentation de la réalité co-construite par les différentes parties prenantes.
 
