@@ -7,7 +7,10 @@ layout: default
 Un modèle est une représentation de la réalité.
 Un modèle collaboratif est une représentation de la réalité co-construite par les différentes parties prenantes.
 
-La collaboration lors de la modélisation est proposée comme une stratégie pour créer un langage commun. C'est-à-dire répondre aux trois exigences principales suivantes : simplification, le biais et endorsement
+La collaboration lors de la modélisation est proposée comme une stratégie pour créer un langage commun. C'est-à-dire répondre aux trois exigences principales suivantes : 
+- simplifier le système, 
+- minimiser le biais,
+- atteindre le consensus.
 
 ## Simplification
 > Definition : 
