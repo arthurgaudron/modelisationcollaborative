@@ -13,7 +13,7 @@ La collaboration lors de la modélisation est proposée comme une stratégie pou
 - atteindre le consensus.
 
 ## Simplification
-> Definition : 
+> “La perfection est atteinte, non pas lorsqu'il n'y a plus rien à ajouter, mais lorsqu'il n'y a plus rien à retirer.” Antoine de Saint-Exupery
 
 Discerner l’essentiel du superflu. Il faut comprendre l’ensemble pour pouvoir enlever le superflu.
 Si un problème complexe est le recoupement des différents champs d’expertise, par définition, l’expert omniscient n’existerait donc pas. Qui peut se targuer de comprendre tous les acteurs, leurs objectifs, leurs contraintes opérationnelles, et leurs relations avec les autres acteurs ?
@@ -23,7 +23,7 @@ Si un problème complexe est le recoupement des différents champs d’expertise
 
 Au-delà de cette légitime ignorance, est-ce que le(s) créateur(s) n’aurait pas une tendance (consciente ou inconsciente) à représenter la réalité à son avantage ?
 
-## Approbation
+## Consensus
 > Definition :
 
 Un modèle ouvert est un modèle accessible pour le plus grand nombre. Si tout le monde comprend le modèle, que devient le risque d’oublier un élément dans le modèle ? Si tout le monde sait lire entre les lignes du modèle, qui pourrait prendre le risque d’être découvert à utiliser le modèle à son avant avantage du modèle le risque de tirer avantage du modèle au risque d’être découvert ?
