@@ -4,27 +4,31 @@ layout: default
 
 # Créer un langage commun
 
+Un problème complexe réunit une diversité d'acteurs. Généralement il n'y a pas de solution évidente car là où un acteur gagne, un autre perd, c'est un équilibre à trouver entre les acteurs et parfois pour les acteurs eux-mêmes.
+
+En plus, s'ajoute les problèmes de communication pour se mettre d'accord. Par définition, les acteurs possèdent différents objectifs et contraintes. Pour résoudre un problème avec 5 acteurs, il faut comprendre 5 métiers différents afin de comprendre les impacts d'une décision sur chacun. D'où l'intérêt pour la création d'un langage commun: créer un modèle collaboratif.
+
 Un modèle est une représentation de la réalité.
 Un modèle collaboratif est une représentation de la réalité co-construite par les différentes parties prenantes.
 
-La collaboration lors de la modélisation est proposée comme une stratégie pour créer un langage commun. C'est-à-dire répondre aux trois exigences principales suivantes : 
+La collaboration lors de la modélisation est proposée comme une stratégie pour créer un langage commun entre les acteurs. C'est-à-dire répondre aux trois exigences principales suivantes : 
 - simplifier le système, 
 - minimiser le biais,
 - atteindre le consensus.
 
 ## Simplification
-> « La perfection est atteinte, non pas lorsqu'il n'y a plus rien à ajouter, mais lorsqu'il n'y a plus rien à retirer. » Antoine de Saint-Exupery
+> « La perfection est atteinte, non pas lorsqu'il n'y a plus rien à ajouter, mais lorsqu'il n'y a plus rien à retirer. » – Antoine de Saint-Exupery
 
 Discerner l’essentiel du superflu. Il faut comprendre l’ensemble pour pouvoir enlever le superflu.
 Si un problème complexe est le recoupement des différents champs d’expertise, par définition, l’expert omniscient n’existerait donc pas. Qui peut se targuer de comprendre tous les acteurs, leurs objectifs, leurs contraintes opérationnelles, et leurs relations avec les autres acteurs ?
 
 ## Biais
-> « Essentially, all models are wrong, but some are useful. » George Box 
+> « Essentially, all models are wrong, but some are useful. » – George Box 
 
 Au-delà de cette légitime ignorance, est-ce que le(s) créateur(s) n’aurait pas une tendance (consciente ou inconsciente) à représenter la réalité à son avantage ?
 
 ## Consensus
-> « Objectivity is achieved by making basic assumptions and reasoning as explicit as possible so that they can be challenged by others and analysts can, themselves, examine their validity. » Richards Heuer
+> « Objectivity is achieved by making basic assumptions and reasoning as explicit as possible so that they can be challenged by others and analysts can, themselves, examine their validity. » – Richards Heuer
 
 Un modèle ouvert est un modèle accessible pour le plus grand nombre. Si tout le monde comprend le modèle, que devient le risque d’oublier un élément dans le modèle ? Si tout le monde sait lire entre les lignes du modèle, qui pourrait prendre le risque d’être découvert à utiliser le modèle à son avant avantage du modèle le risque de tirer avantage du modèle au risque d’être découvert ?
 
